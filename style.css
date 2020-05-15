@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+
+body {
+  font-size: 16px;
+  font-family: 'Ubuntu', sans-serif;
+  background: CornflowerBlue;
+  text-align: center;
+}
+
+h1 {
+  color: #fff;
+  font-size: 4.5rem;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+}
+
+.page-wrapper {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.family-image {
+  margin: 0 auto;
+  background: url('facebook-family-emoji.png') center center no-repeat #fff;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+}
